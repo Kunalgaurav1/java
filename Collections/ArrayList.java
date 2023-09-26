@@ -17,8 +17,8 @@ public class ArrayList {
         System.out.println(studentName[1]);
         //above is fixed size but in real time we need real dynamic memory allocation
 
-        ArrayList<String> studentname = new ArrayList<>();
-        studentName.add("rakesh");
+        // ArrayList<String> studentname = new ArrayList<>();
+        // studentName.add("rakesh");
     }
     
 }
